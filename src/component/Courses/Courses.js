@@ -9,16 +9,13 @@ const Courses = () => {
       .then(res =>res.json())
       .then(item =>setContain(item))
     },[])
-    console.log(contain)
+
     return (
-      
         <div>
             <Container>
             <Row>
             {
                 contain.map(data=> <Course data={data}></Course>)
-                
-            
             }
             </Row>
           </Container>
