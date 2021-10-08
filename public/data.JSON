@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "name" : "Data Structure",
+        "price":3000,
+        "image":"https://www.codingeek.com/wp-content/uploads/2018/12/data-structure1.jpg",
+         "course_Duration": "2 Month",
+         "vacancy":"20"
+    },
+
+    {      "id":2,
+        "name" : "Algorithm & Data Structure",
+        "price":3000,
+        "image":"https://i.ytimg.com/vi/tJizCA9z48U/maxresdefault.jpg",
+         "course_Duration": "2 Month",
+         "vacancy":"20"
+    },
+
+
+    {     "id":3,
+        "name" : "Node & Express JS",
+        "price":3000,
+        "image":"https://i.ytimg.com/vi/Oe421EPjeBE/maxresdefault.jpg",
+         "course_Duration": "2 Month",
+         "vacancy":"20"
+    },
+
+
+
+    {     "id":4,
+        "name" : "PHP",
+        "price":3000,
+        "image":"https://www.netsolutions.com/insights/wp-content/uploads/2021/01/What-is-PHP.jpg",
+         "course_Duration": "2 Month",
+         "vacancy":"20"
+    },
+
+
+    {      "id":5,
+        "name" : "JAVASCRIPT",
+        "price":3000,
+        "image":"https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/s400/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
+         "course_Duration": "2 Month",
+         "vacancy":"20"
+    },
+
+
+
+
+    {   
+        "id":6,
+        "name" : "Java",
+        "price":3000,
+        "image":"https://i.ytimg.com/vi/i6AZdFxTK9I/maxresdefault.jpg",
+         "course_Duration": "2 Month",
+         "vacancy":"20"
+    },
+
+
+
+    {
+        "id":7,
+        "name" : "C",
+        "price":3000,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1200px-The_C_Programming_Language_logo.svg.png",
+         "course_Duration": "2 Month",
+         "vacancy":"20"
+    },
+
+
+
+    {
+        "id":8,
+        "name" : "Python",
+        "price":3000,
+        "image":"https://i.ytimg.com/vi/JJmcL1N2KQs/maxresdefault.jpg",
+       
+         "course_Duration": "2 Month",
+         "vacancy":"20"
+    }
+
+
+
+]
