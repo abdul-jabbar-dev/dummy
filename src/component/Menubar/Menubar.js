@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Menubar.css";
-
+import logo from '../logo.jpg'
 import { Link } from 'react-router-dom';
 const Menubar = () => {
   return (
@@ -9,9 +9,9 @@ const Menubar = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-2">
-              {/* <div className="logo-img">
-                <img className="w-75" src={logo} alt="" />
-              </div> */}
+              <div className="logo-img">
+                <Link to="/home"><img style={{ padding: '10px 0', width: '68px' }} src={logo} alt="" /></Link>
+              </div>
             </div>
             <div className="col-md-10">
               <div className="menu-container ">

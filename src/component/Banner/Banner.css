@@ -1,5 +1,12 @@
 
+.colLink{
+text-decoration: none;
+color: white;
+}
+.colLink:hover{
 
+color: rgb(255, 32, 32);
+}
 
 
 .banner {

@@ -1,6 +1,5 @@
-import Button from '@restart/ui/esm/Button';
 import React from 'react';
-import { Card } from 'react-bootstrap';
+import { Card, Button } from 'react-bootstrap';
 import { useHistory } from 'react-router';
 
 
@@ -8,7 +7,7 @@ const Course = (props) => {
   const { name, price, image, course_Duration, id } = props.data
   const history = useHistory()
   const goToDet = (id) => {
-    history.push(`/classes/${id}`)
+    history.push(`/class/${id}`)
   }
 
   return (
