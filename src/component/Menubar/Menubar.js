@@ -25,6 +25,9 @@ const Menubar = () => {
                   <Link to="/about" className="items">
                     <li>About us</li>
                   </Link>
+                  <Link to="/recommendation " className="items">
+                    <li>Recommendation </li>
+                  </Link>
                 </ul>
               </div>
             </div>

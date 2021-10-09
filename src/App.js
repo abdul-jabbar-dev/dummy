@@ -6,6 +6,8 @@ import Footer from './component/Footer/Footer'
 import MenuBar from "./component/Menubar/Menubar";
 import Home from "./component/Home/Home";
 import About from "./component/About/About";
+import Recommendation from "./component/recommendation/Recommendation";
+import  NotFound  from "./component/NotFound/NotFound";
 
 
 function App() {
@@ -30,6 +32,12 @@ function App() {
           </Route>
           <Route path="/about">
             <About></About>
+          </Route>
+          <Route path="/recommendation ">
+            <Recommendation ></Recommendation >
+          </Route>
+          <Route path="*">
+            <NotFound></NotFound>
           </Route>
 
         </Switch>
